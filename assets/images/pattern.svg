@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f3d78" />
+      <stop offset="100%" stop-color="#012452" />
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M0 60V0h60" fill="none" stroke="#1d5fbf" stroke-width="1" opacity="0.25" />
+      <path d="M0 30h60M30 0v60" fill="none" stroke="#1d5fbf" stroke-width="0.5" opacity="0.15" />
+    </pattern>
+    <pattern id="diamonds" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path
+        d="M60 10l40 50-40 50-40-50z"
+        fill="none"
+        stroke="#5fa0ff"
+        stroke-width="1.6"
+        opacity="0.18"
+      />
+    </pattern>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)" />
+  <rect width="600" height="600" fill="url(#grid)" />
+  <rect width="600" height="600" fill="url(#diamonds)" />
+</svg>
