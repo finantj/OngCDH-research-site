@@ -1,0 +1,9 @@
+{
+  "title": "Broken Books",
+  "description": "Digital reconstructions of manuscripts dispersed by the 1849 College Saint Nicholas fire, combining IIIF images, metadata, and scholarship on provenance.",
+  "type": "faculty",
+  "team": "Walter J. Ong, S.J. Center for Digital Humanities with university and archival partners",
+  "year": 2019,
+  "link": "https://brokenbooks.slu.edu/",
+  "tags": ["IIIF", "Restoration", "Provenance"]
+}

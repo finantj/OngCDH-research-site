@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" role="img" aria-labelledby="title desc">
+  <title id="title">Stylized Saint Louis University Shield</title>
+  <desc id="desc">A simplified blue shield with a white fleur-de-lis inspired emblem.</desc>
+  <defs>
+    <linearGradient id="shieldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a6ec2" />
+      <stop offset="100%" stop-color="#003a70" />
+    </linearGradient>
+  </defs>
+  <path
+    d="M60 4c24 0 52 6 52 6v60c0 37-27 66-52 86-25-20-52-49-52-86V10s28-6 52-6z"
+    fill="url(#shieldGradient)"
+    stroke="#ffffff"
+    stroke-width="4"
+  />
+  <path
+    d="M60 32c-13 0-24 10-24 24 0 11 7 20 18 23l-6 29 12-10 12 10-6-29c11-3 18-12 18-23 0-14-11-24-24-24zm0 16c4 0 8 3 8 8s-4 8-8 8-8-3-8-8 4-8 8-8z"
+    fill="#ffffff"
+  />
+  <circle cx="60" cy="34" r="6" fill="#ffffff" opacity="0.8" />
+  <circle cx="60" cy="118" r="6" fill="#ffffff" opacity="0.7" />
+</svg>

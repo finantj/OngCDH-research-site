@@ -1,0 +1,9 @@
+{
+  "title": "T-PEN (Transcription for Paleographical and Editorial Notation)",
+  "description": "A browser-based transcription environment that supports collaborative encoding of manuscripts with IIIF imagery, TEI export, and project management tools.",
+  "type": "faculty",
+  "team": "Saint Louis University Center for Digital Humanities development team",
+  "year": 2011,
+  "link": "https://t-pen.org/TPEN/",
+  "tags": ["Manuscripts", "Transcription", "IIIF"]
+}

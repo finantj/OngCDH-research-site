@@ -1,0 +1,9 @@
+{
+  "title": "Rerum.io",
+  "description": "An open, collaboratively maintained linked data repository that gives digital humanities projects a durable platform for sharing annotations and scholarly datasets.",
+  "type": "faculty",
+  "team": "Walter J. Ong, S.J. Center for Digital Humanities with partner institutions",
+  "year": 2014,
+  "link": "https://rerum.io/",
+  "tags": ["Linked data", "APIs", "Interoperability"]
+}
